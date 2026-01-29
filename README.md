@@ -24,7 +24,7 @@ The dataset used in this project consists of two parts: an internally collected 
 
 To obtain the internal dataset or for academic collaboration, please contact the research team via the following email:
 
-- **Email**: [hbxaurora@163.com]
+- **Email**: [hou-yu-bo@wmu.edu.cn]
 
 Please indicate your affiliated institution, research purpose, and data usage plan in your email, and we will contact you as soon as possible.
 
